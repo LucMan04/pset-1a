@@ -1,0 +1,43 @@
+*{
+  background-color: #DAA531;
+  font-family: Helvetica, sans-serif;
+}
+p{
+  color: #00008b;
+  font-weight: bold;
+}
+h1,
+h2{
+  color: #50c878;
+  font-weight: bold;
+}
+title{
+  font-size: 300px;
+}
+.top{
+  font-size: 40px
+}
+li.list{
+  list-style: square;
+}
+.topic{
+  color: #006400;
+}
+#content{
+  padding: 20px;
+}
+#head{
+  padding: 1px;
+}
+#title{
+  background-color: purple;
+  letter-spacing: 2px;
+  font-size: 30px;
+  font-weight: bold;
+}
+a:hover{
+  color: red;
+}
+div>p{
+  font-weight: lighter;
+}
